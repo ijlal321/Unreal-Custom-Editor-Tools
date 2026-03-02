@@ -86,8 +86,7 @@ To use this feature, right click on a folder in context browser, and click advan
 
 
 ## Demo
-<img width="803" height="648" alt="www udemy com_course_unrealengine5-c-one-course-solution-for-extending-editor_learn_lecture_33815144 (7)" src="https://github.com/user-attachments/assets/251edd9d-3b29-4e03-aa20-3cbdfe7a43b7" />
-
+<img width="909" height="735" alt="www udemy com_course_unrealengine5-c-one-course-solution-for-extending-editor_learn_lecture_33959408" src="https://github.com/user-attachments/assets/3263869e-4c93-4589-a169-027de6e16e75" />
 
 ## Usage of Slate Widgets
 Slate Widgets are used to make and design the custom tab.
