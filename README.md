@@ -19,6 +19,24 @@ This plugin is made to have some experience with the unreal engine tooling exo-s
 	- [Usage of Slate Widgets] 
 - [Auto add prefix names to Quixel Imports (Upcoming !)]
 
+- [Quick Asset Actions](#quick-asset-actions)
+  - [Asset Batch Duplication](##asset-batch-duplication)
+  - [Delete Unused Assets From Selection](##delete-unused-assets-from-selection)
+    - [Fixed redirectors](#fixed-redirectors)
+  - [Add prefix to assets](#add-prefix-to-assets)
+  - [Usage and features](#usage-and-features)
+    - [How to use](#how-to-use)
+    - [Custom Dialogue Messages and Notifcations](#custom-dialogue-messages-and-notifcations)
+- [Extend Content Browser Menu](#extend-content-browser-menu)
+  - [Search And Delete Unused Assets](#search-and-delete-unused-assets)
+    - [Auto Fixed Up Redirectors](#auto-fixed-up-redirectors)
+  - [Search And Delete Empty Folders](#search-and-delete-empty-folders)
+- [A Custom Editor Tab for Advanced Deletion](#a-custom-editor-tab-for-advanced-deletion)
+  - [Features](#features)
+  - [Demo](#demo)
+  - [Usage of Slate Widgets](#usage-of-slate-widgets)
+- [Auto add prefix names to Quixel Imports (Upcoming !)](#auto-add-prefix-names-to-quixel-imports-upcoming-)
+
 
 # Quick Asset Actions
 Quick asset actions pop up when you right click on a asset. Look at example below.
