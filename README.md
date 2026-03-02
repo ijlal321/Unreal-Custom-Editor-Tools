@@ -2,8 +2,8 @@
 This plugin is made to have some experience with the unreal engine tooling exo-system. It can be used for learning as well as including in your project for usage. Here are top features implemented.
 
 - [Quick Asset Actions](#quick-asset-actions)
-  - [Asset Batch Duplication](##asset-batch-duplication)
-  - [Delete Unused Assets From Selection](##delete-unused-assets-from-selection)
+  - [Asset Batch Duplication](#asset-batch-duplication)
+  - [Delete Unused Assets From Selection](#delete-unused-assets-from-selection)
     - [Fixed redirectors](#fixed-redirectors)
   - [Add prefix to assets](#add-prefix-to-assets)
   - [Usage and features](#usage-and-features)
