@@ -2,24 +2,6 @@
 This plugin is made to have some experience with the unreal engine tooling exo-system. It can be used for learning as well as including in your project for usage. Here are top features implemented.
 
 - [Quick Asset Actions](#quick-asset-actions)
-	- [Asset Batch Duplication]
-	- [Delete Unused Assets From Selection]
-		- [Fixed redirectors]
-  - [Add prefix to assets]
-	-  [Usage and features]
-		- [How to use]
-		- [Custom Dialogue Messages and Notifcations]
-- [Extend Content Browser Menu]
-	- [Search And Delete Unused Assets]
-		- [Auto Fixed Up Redirectors]
-	- [Search And Delete Empty Folders]
-- [A Custom Editor Tab for Advanced Deletion]
-	- [features]
-	- [demo]
-	- [Usage of Slate Widgets] 
-- [Auto add prefix names to Quixel Imports (Upcoming !)]
-
-- [Quick Asset Actions](#quick-asset-actions)
   - [Asset Batch Duplication](##asset-batch-duplication)
   - [Delete Unused Assets From Selection](##delete-unused-assets-from-selection)
     - [Fixed redirectors](#fixed-redirectors)
